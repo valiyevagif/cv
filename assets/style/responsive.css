@@ -1,0 +1,58 @@
+@media (min-width: 320px) and (max-width: 425px) {
+    
+    body {
+        padding: 0px;
+    }
+
+    .container {
+        width: 90%;
+    }
+
+    .left-section h3 {
+        margin-bottom: 10px;
+        font-size: 40px;
+        cursor: pointer;
+        transition: 0.3s;
+        position: relative;
+    }
+
+    .left-section p {
+        font-size: 18px;
+    }
+
+    .about-section ul li {
+        font-size: 18px;
+    }
+
+    .education-section ul li p {
+        font-size: 18px;
+    }
+
+    .work-exp ul li p {
+        font-size: 18px;
+    }
+
+    .certificates-section .row .card .div-items h6 {
+        font-size: 18px;
+    }
+
+    .certificates-section .row .card .div-items span {
+        font-size: 16px !important;
+    }
+
+    .language-skills .title h5 {
+        font-size: 17px;
+    }
+
+    .language-skills .title span {
+        font-size: 17px;
+    }
+
+    .skills-section .title h5 {
+        font-size: 17px;
+    }
+
+    skills-section .title span {
+        font-size: 17px;
+    }
+  }
